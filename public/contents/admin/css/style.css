@@ -1,0 +1,78 @@
+.user-role h6{
+	color: red!important;
+}
+
+li a.active{
+  background-color: gray;
+}
+
+/*.card .card-header:not([data-background-color]) {
+    background-color: #9b9b98;
+    background-color: #DFDCD1;
+}*/
+
+/*.card .card-header {
+    padding: 0px 20px;
+}*/
+.card-header .form-card-title-one{
+	padding-left: 25px;
+}
+
+.card-header .form-card-title-two{
+	padding-right: 40px;
+}
+
+.card-header .table-card-title-one{
+  padding-left: 12px;
+}
+
+.card-header .table-card-title-two{
+  padding-right: 25px;
+}
+
+/*.card .card-footer {
+    background-color: #EAE8E0;
+    border: 0;
+}*/
+
+/*.card-footer {
+    padding: 5px;
+}*/
+
+.form-card-body{
+	background-color: #DFDCD1;
+ 	width: 95%;
+	margin: 0 auto;
+	border-radius: 7px;
+}
+
+.form-card{
+	background-color: #DFDCD1;
+}
+
+.card_head_btn{
+	font-weight: bold;
+}
+
+/*.card-wizard .card-header {
+    padding: 5px 0 !important;
+}
+*/
+
+table.view-table-custom tr td:first-child{
+  width: 30%;
+  text-align: right;
+  font-weight: 600px;
+}
+
+table.view-table-custom tr td:last-child{
+  width: 70%;
+  text-align: left;
+  font-weight: 400px;
+}
+
+.req_star{
+  color:red!important;
+}
+
+
